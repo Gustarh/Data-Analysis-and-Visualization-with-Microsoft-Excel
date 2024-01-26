@@ -17,11 +17,17 @@ I also deleted “No of days column” as it was empty and irrelevant to analysi
 
 ## DATA ANALYSIS 
 
-I used Microsoft Excel for the data preparation, cleaning, analysis and visualization.
+I used Microsoft Excel for the data preparation, cleaning, analysis and visualization. My analysis was summarized using pivot tables as seen below:
+
+![pivot table](https://github.com/Gustarh/Data-Analysis-and-Visualization-with-Microsoft-Excel/assets/142215382/ac1f4512-dc6b-45f3-b83a-1f1e21925fed)
+
 
 ## DELIVERABLES 
 
-I visualized my result in a dashboard which includes my insights, findings and recommendations for the company as seen below 👇:
+I visualized my result in a dashboard which includes my insights, findings and recommendations for the company as seen below :
+
+![ht](https://github.com/Gustarh/Data-Analysis-and-Visualization-with-Microsoft-Excel/assets/142215382/231f6991-5a12-4370-a884-73aa3b9b4af4)
+
 
 
 
