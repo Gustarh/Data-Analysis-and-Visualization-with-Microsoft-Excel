@@ -21,6 +21,11 @@ I used Microsoft Excel for the data preparation, cleaning, analysis and visualiz
 
 ![pivot table](https://github.com/Gustarh/Data-Analysis-and-Visualization-with-Microsoft-Excel/assets/142215382/ac1f4512-dc6b-45f3-b83a-1f1e21925fed)
 
+My Key Performance Indicators are seen in the Visual below. I used the Pivot table in Power Pivot to determine the distinct counts of Total Customer, Total Hotel, Total Origin Country, Total Destination Country and Total Booking. This is becuase the Count Distinct Function is absent in the Normal Excel's Pivot Table.
+
+![KPIs](https://github.com/Gustarh/Data-Analysis-and-Visualization-with-Microsoft-Excel/assets/142215382/5a97f764-cfcd-435a-aea1-1870ec8b180b)
+
+
 
 ## DELIVERABLES 
 
